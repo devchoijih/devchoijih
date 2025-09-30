@@ -4,7 +4,9 @@
 </p>
 
 <p align="center">
-  <a href="mailto:wlgns3855@gmail.com"><img src="https://img.shields.io/badge/Email-jihun%40example.com-blue?logo=gmail"></a>
+  <a href="mailto:wlgns3855@gmail.com">
+    <img src="https://img.shields.io/badge/Email-wlgns3855%40gmail.com-blue?logo=gmail">
+  </a>
 </p>
 
 ---
@@ -84,7 +86,3 @@
 - 📚 신기술 문서 읽는 걸 취미로 함
 
 ---
-
-<p align="center">
-  🛠 <i>“코드는 결국 사람을 위한 것”</i> ✍️
-</p>
