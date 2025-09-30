@@ -1,64 +1,69 @@
-# 🚀 Project Title
-> ✨ 짧고 임팩트 있는 한 줄 소개 (예: "Spring + React 기반의 표준개발 자동화 시스템")
+<h1 align="center">👋 Hi, I'm Jihun Choi</h1>
+<p align="center">
+  🚀 Java & Web Fullstack Developer | 🌱 Problem Solver | 💡 Standardization & Automation Enthusiast
+</p>
 
-![GitHub stars](https://img.shields.io/github/stars/username/repo?style=flat-square)
-![GitHub forks](https://img.shields.io/github/forks/username/repo?style=flat-square)
-![GitHub license](https://img.shields.io/github/license/username/repo?style=flat-square)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-
-![screenshot](./docs/demo.png)
-
----
-
-## 🧭 목차
-- [📌 소개](#-소개)
-- [✨ 기능](#-기능)
-- [🛠 기술 스택](#-기술-스택)
-- [🚀 설치 및 실행](#-설치-및-실행)
-- [📂 폴더 구조](#-폴더-구조)
-- [🤝 기여](#-기여)
-- [📄 라이선스](#-라이선스)
+<p align="center">
+  <a href="mailto:jihun@example.com"><img src="https://img.shields.io/badge/Email-jihun%40example.com-blue?logo=gmail"></a>
+  <a href="https://your-portfolio.com"><img src="https://img.shields.io/badge/Portfolio-Visit-green?logo=google-chrome"></a>
+  <a href="https://www.linkedin.com/in/username"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin"></a>
+</p>
 
 ---
 
-## 📌 소개
-이 프로젝트는 **OO 기능**을 자동화하고, **XX 과정을 효율화**하기 위해 개발되었습니다.  
-React + Spring Boot + MySQL 기반으로 제작되어, 실제 서비스에도 바로 적용할 수 있는 구조를 가지고 있습니다.
+## 🧠 About Me
+- 💻 **Java + Spring + MyBatis + JSP** 기반의 대규모 시스템 개발 경험
+- 📊 **Excel 자동화 / 표준개발 조사 시스템 / 공공 웹** 등 실무형 프로젝트 다수
+- ⚡ 문제 해결, 자동화, 보안·인증 분야에 강점
+- 🧭 “기능을 단순히 구현하는 것”을 넘어, **사용자 흐름 & 비즈니스 로직까지 설계**
 
 ---
 
-## ✨ 기능
-- 🔐 **JWT 인증** 및 사용자 권한 관리
-- 📊 **Excel 자동 생성** (Apache POI)
-- ⚡ **대시보드 실시간 반영**
-- 📝 RESTful API + SPA 구조
+## 🛠 Tech Stack
+
+### 🧰 Languages & Frameworks
+<p>
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MyBatis-000000?style=for-the-badge&logo=databricks&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JSP-005C84?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+</p>
+
+### 🧭 Tools & Infra
+<p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tomcat-F8DC75?style=for-the-badge&logo=apache-tomcat&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Apache%20POI-2496ED?style=for-the-badge&logo=apache&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
+</p>
 
 ---
 
-## 🛠 기술 스택
+## 🌟 Featured Projects
+- 📌 **[COSD Web System](https://github.com/username/cosd-project)** — 공공 표준개발 관리 및 Excel 자동화 시스템  
+- 📊 **[Excel Automation Tool](https://github.com/username/excel-tool)** — POI 기반 대용량 템플릿 생성기  
+- 📝 **[Form Signature Module](https://github.com/username/sign-module)** — Canvas 기반 전자서명 기능
 
-| 구분 | 기술 |
-|------|------|
-| Frontend | ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white) ![Vite](https://img.shields.io/badge/-Vite-646CFF?logo=vite&logoColor=white) |
-| Backend | ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?logo=springboot&logoColor=white) ![MyBatis](https://img.shields.io/badge/-MyBatis-000000?logo=databricks&logoColor=white) |
-| DB | ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white) |
-| Infra | AWS EC2, GitHub Actions (CI/CD) |
+👉 더 많은 프로젝트는 [Repositories](https://github.com/username?tab=repositories)에서 확인하세요!
 
 ---
 
-## 🚀 설치 및 실행
+## 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=username&show_icons=true&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=username&layout=compact&theme=tokyonight" height="150"/>
+</p>
 
-```bash
-# 1. 저장소 클론
-git clone https://github.com/username/repo.git
-cd repo
+---
 
-# 2. 백엔드 실행 (Spring Boot)
-./gradlew bootRun
+## ✨ Fun Facts
+- ☕ 아침엔 Java, 오후엔 커피 😎  
+- 🧩 로직 짜는 걸 퍼즐 맞추듯 즐김  
+- 📚 신기술 문서 읽는 걸 취미로 함
 
-# 3. 프론트엔드 실행
-cd frontend
-npm install
-npm run dev
+---
+
+<p align="center">
+  🛠 <i>“코드는 결국 사람을 위한 것”</i> ✍️
+</p>
