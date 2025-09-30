@@ -4,9 +4,7 @@
 </p>
 
 <p align="center">
-  <a href="mailto:jihun@example.com"><img src="https://img.shields.io/badge/Email-jihun%40example.com-blue?logo=gmail"></a>
-  <a href="https://your-portfolio.com"><img src="https://img.shields.io/badge/Portfolio-Visit-green?logo=google-chrome"></a>
-  <a href="https://www.linkedin.com/in/username"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin"></a>
+  <a href="mailto:wlgns3855@gmail.com"><img src="https://img.shields.io/badge/Email-jihun%40example.com-blue?logo=gmail"></a>
 </p>
 
 ---
