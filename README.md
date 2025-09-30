@@ -1,6 +1,6 @@
 <h1 align="center">👋 안녕하세요, 항상 배우려고 노력하는 개발자 입니다.</h1>
 <p align="center">
-  🚀 Java & Web Fullstack Developer | 🌱 Problem Solver | 💡 Standardization & Automation Enthusiast
+  🚀 Java & python & Web Fullstack Developer
 </p>
 
 <p align="center">
@@ -11,7 +11,7 @@
 
 ## 🧠 About Me
 - 💻 **Java + Spring + MyBatis + JSP** 기반의 대규모 시스템 개발 경험
-- 📊 **Excel 자동화 / 표준개발 조사 시스템 / 공공 웹** 등 실무형 프로젝트 다수
+- 📊 **쇼핑몰 개발(대규모 트래픽) / 그룹웨어 개발 / 공공 웹** 등 실무형 프로젝트 다수
 - ⚡ 문제 해결, 자동화, 보안·인증 분야에 강점
 - 🧭 “기능을 단순히 구현하는 것”을 넘어, **사용자 흐름 & 비즈니스 로직까지 설계**
 
@@ -75,13 +75,6 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
 </p>
-
----
-
-## 🌟 Featured Projects
-- 📌 **[COSD Web System](https://github.com/username/cosd-project)** — 공공 표준개발 관리 및 Excel 자동화 시스템  
-- 📊 **[Excel Automation Tool](https://github.com/username/excel-tool)** — POI 기반 대용량 템플릿 생성기  
-- 📝 **[Form Signature Module](https://github.com/username/sign-module)** — Canvas 기반 전자서명 기능
 
 ---
 
