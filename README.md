@@ -3,12 +3,6 @@
   🚀 Java & python & Web Fullstack Developer
 </p>
 
-<p align="center">
-  <a href="mailto:wlgns3855@gmail.com">
-    <img src="https://img.shields.io/badge/Email-wlgns3855%40gmail.com-blue?logo=gmail">
-  </a>
-</p>
-
 ---
 
 ## 🧠 About Me
